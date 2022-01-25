@@ -8,3 +8,4 @@ when not defined(release):
 
 import fpscounter
 import mainpanel
+import spin
